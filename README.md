@@ -1,4 +1,4 @@
-# Clipper
+# Clipper : free alternative to Klapp , VEED,Redstream,etc 
 
 Clipper découpe une vidéo longue (fichier ou lien YouTube) en clips verticaux 9:16 pour TikTok, Reels ou Shorts. Chaque clip a des sous-titres mot à mot, un cadrage qui suit les visages, un son mis au niveau et un score de potentiel viral. Tout tourne en local sur un PC Windows, sans GPU.
 
