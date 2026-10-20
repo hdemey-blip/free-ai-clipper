@@ -1,0 +1,11 @@
+faster-whisper>=1.2
+numpy>=2.0
+opencv-python-headless>=4.10
+yt-dlp>=2026.8.19
+yt-dlp-ejs>=0.8
+flask>=3.0
+demucs>=4.0
+torch
+torchaudio
+# facultatif : choix des moments par l'API Anthropic au lieu de la CLI Claude Code
+anthropic>=0.40

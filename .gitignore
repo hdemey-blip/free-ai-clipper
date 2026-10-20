@@ -1,0 +1,19 @@
+# environnement
+.venv/
+__pycache__/
+*.pyc
+
+# données locales : vidéos, clips, état de l'agent, profils, journaux
+jobs/
+agent/
+*.mp4
+*.mkv
+*.m4a
+*.wav
+*.webm
+*.log
+*.lock
+
+# secrets
+.env
+tiktok.json
